@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in creating game C# and Unity
+- 👀 I’m interested in creating game on Unity
 - 🌱 I’m currently learning in 2 coding schools
 - 💞️ I’m looking to collaborate on creating game in Unity
 - 📫 How to reach me telegram: @fruizon
