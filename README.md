@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in creating game in Unity
-- 🌱 I’m currently learning in 2 coding schools
+- 🌱 I’m currently learning in 1 coding schools
 - 💞️ I’m looking to collaborate on creating game in Unity
 - 📫 How to reach me telegram: @fruizon
 
